@@ -1,0 +1,22 @@
+1657579948269	Delete element
+1657579986542	Delete element
+1657580009390	Delete element
+1657580037174	Delete element
+1657580059459	Delete element
+1657583295922	Rename compilation unit 'UserDetailsServiceImp.java'
+1657583890233	Delete element
+1657817366096	Delete element
+1657817695060	Rename type 'UsuarioRepositoryTests'
+1657817705424	Rename type 'UsuarioRepositoryTest'
+1657818851900	Delete element
+1657822418724	Rename field 'usuario'
+1657822430015	Rename local variable 'usuario'
+1657822485515	Rename local variable 'usuario'
+1657822514641	Rename method 'setUsuario'
+1657822539874	Rename method 'getUsuario'
+1657822604364	Rename field 'usuario'
+1657822619259	Rename method 'getUsuario'
+1657822628964	Rename method 'setUsuario'
+1657822636729	Rename local variable 'usuario'
+1657822817776	Rename field 'UserName'
+1657822896885	Rename field 'email'
